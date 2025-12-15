@@ -1,2 +1,2 @@
-# -koln-projekt
+# Školní projekt
 point and click adventura
