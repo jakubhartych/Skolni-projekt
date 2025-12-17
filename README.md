@@ -8,6 +8,9 @@
 
 2D point and click adventura
 
+Odkaz na video:
+ - https://youtu.be/CeLqC7yotBU
+
 ### Cíl:
 
 1. Krátká hra s jednoduchým příběhem s pevnou dějovou linkou
