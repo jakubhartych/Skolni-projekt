@@ -1,4 +1,4 @@
-# Školní projekt
+# Ročníkový projekt
 
 ### Co se původně zamýšlelo:
 
