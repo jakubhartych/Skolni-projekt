@@ -12,6 +12,9 @@ Odkazy na videa:
  - https://youtu.be/CeLqC7yotBU
  
  - https://youtu.be/KAd7b32Xs3U
+ - 
+## projekt byl moc velký tak ho má v jiné v sekci Branches (master)
+[Projekt v podobě ZIP](https://github.com/jakubhartych/Skolni-projekt/tree/master)
 
 ### Cíl:
 
@@ -26,9 +29,6 @@ Odkazy na videa:
 5. Nechat hru open source
 
 6. Dokončit
-
-## projekt byl moc velký tak ho má v jiné v sekci Branches (master)
-[Projekt v podobě ZIP](https://github.com/jakubhartych/Skolni-projekt/tree/master)
 
 ![Chicken, the game hero](https://github.com/jakubhartych/Skolni-projekt/blob/b416ce0a9250d3c73fcd6df118598f8bc125f2e8/IMG_20251219_173638.jpg)
 
