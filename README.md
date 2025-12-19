@@ -27,6 +27,8 @@ Odkazy na videa:
 
 6. Dokončit
 
+![Chicken, the game hero](https://github.com/jakubhartych/Skolni-projekt/blob/b416ce0a9250d3c73fcd6df118598f8bc125f2e8/IMG_20251219_173638.jpg)
+
 ### Zdroje:
 
  - Youtube. Online. Www.youtube.com. 2005. Dostupné z: https://www.youtube.com. [cit. 2025-12-19].
