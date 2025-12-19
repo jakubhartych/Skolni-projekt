@@ -15,7 +15,7 @@ Odkazy na videa:
 
 ## projekt byl moc velký tak ho má v jiné v sekci Branches (master)
 
-[Projekt v podobě ZIP](https://github.com/jakubhartych/Skolni-projekt/tree/master) ![Chicken](https://github.com/jakubhartych/Skolni-projekt/blob/72c8f77d21d660c3c565096dffaeba8432b90eb8/stnd.png)
+[Projekt v podobě ZIPu lze stáhnout zde](https://github.com/jakubhartych/Skolni-projekt/tree/master) ![Chicken](https://github.com/jakubhartych/Skolni-projekt/blob/72c8f77d21d660c3c565096dffaeba8432b90eb8/stnd.png)
 
 ### Cíl:
 
