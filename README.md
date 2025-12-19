@@ -12,7 +12,7 @@ Odkazy na videa:
  - https://youtu.be/CeLqC7yotBU
  
  - https://youtu.be/KAd7b32Xs3U
- - 
+
 ## projekt byl moc velký tak ho má v jiné v sekci Branches (master)
 [Projekt v podobě ZIP](https://github.com/jakubhartych/Skolni-projekt/tree/master)
 
