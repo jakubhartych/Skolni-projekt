@@ -8,8 +8,10 @@
 
 2D point and click adventura
 
-Odkaz na video:
+Odkazy na videa:
  - https://youtu.be/CeLqC7yotBU
+ 
+ - https://youtu.be/KAd7b32Xs3U 
 
 ### Cíl:
 
